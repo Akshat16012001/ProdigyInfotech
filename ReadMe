@@ -1,10 +1,26 @@
 Data Science Internship at Prodigy Infotech
 
-Welcome to the repository for my internship at Prodigy Infotech. This repository contains all the projects and tasks I completed during my data science internship. 
-Below, you'll find an introduction to each task and the methodologies used.
+Welcome to my Data Science Internship journey at Prodigy Infotech! 
+This repository serves as a comprehensive documentation of my projects and tasks completed during the internship period. Each task has provided invaluable learning experiences in data analysis, machine learning, and data visualization.
 
-Introduction
+Introduction :
+During my internship at Prodigy Infotech, I delved deep into various data science techniques and tools. The program equipped me with practical skills and knowledge essential for tackling real-world data challenges.
 
-This repository documents my journey and learning experiences during my data science internship at Prodigy Infotech. 
-The internship provided a comprehensive exposure to various data science techniques and tools, helping me enhance my 
-skills in data analysis, machine learning, and data visualization.
+Tasks Overview :
+
+Task-01: Exploratory Data Analysis (EDA)
+->I created visualizations to explore the distribution of both categorical and continuous variables within a population. This task honed my abilities to derive insights from data using charts and graphs effectively.
+
+Task-02: Data Cleaning and EDA on the Titanic Dataset
+->I performed thorough data cleaning and exploratory analysis on the Titanic dataset from Kaggle. This involved uncovering relationships between variables and identifying meaningful patterns and trends in the data.
+
+Task-03: Building a Decision Tree Classifier
+->Using demographic and behavioral data from the Bank Marketing dataset, I developed a decision tree classifier to predict customer purchase decisions. This task sharpened my machine learning skills and understanding of classification algorithms.
+
+Task-04: Sentiment Analysis on Social Media Data
+->I analyzed sentiment patterns in social media data to gauge public opinion and attitudes towards specific topics or brands. This project enhanced my proficiency in natural language processing and sentiment analysis techniques.
+
+Conclusion:
+My internship at Prodigy Infotech has been a transformative experience, allowing me to apply theoretical knowledge to real-world scenarios. Each task has contributed significantly to my growth as a data scientist, 
+equipping me with the skills necessary to tackle complex data problems effectively.
+Feel free to explore each project in detail to gain insights into the methodologies employed and the outcomes achieved. Thank you for visiting my internship repository!
